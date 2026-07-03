@@ -1,0 +1,15 @@
+{
+  "best_model": "Random Forest",
+  "cv_scores": {
+    "Logistic Regression": 0.7861265718408575,
+    "Random Forest": 0.7902288188002473,
+    "Gradient Boosting": 0.7412904555761699
+  },
+  "holdout": {
+    "accuracy": 0.8861788617886179,
+    "precision": 0.865979381443299,
+    "recall": 0.9882352941176471,
+    "f1": 0.9230769230769231,
+    "roc_auc": 0.8613003095975232
+  }
+}
